@@ -22,3 +22,12 @@ For more details, refer the below links
 
 * https://docs.streamlit.io/
 * https://docs.streamlit.io/library/cheatsheet
+
+
+-----------------------------------------------------------------------------------------------
+
+# *OTHER ISSUES*
+
+* Error with st.pyplot
+
+![image](https://user-images.githubusercontent.com/112689649/211194795-61be0198-4630-461e-b74a-1190175a3c5a.png)
